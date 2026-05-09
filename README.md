@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @officialchrisdigital
-- 👀 I’m a freelance web developer, mobile app developer and ui/ux design expert
-- 🌱 I’m currently helping business owners build responsive websites and mobile apps for their brands
-- 💞️ I’m looking to collaborate on web development to learn and grow as a developer
+- 👀 I’m a Software Developer, Full-Stack Developer, and AI Automation Specialist
+- 🌱 I’m currently helping business owners build responsive websites, mobile apps, and AI Automation for their brands
+- 💞️ I’m looking to collaborate on a Web and Software Development project to learn and grow as a developer
 - 📫 You can reach out to me through this link 👉 https://linktr.ee/officialchrisdigital
 
 <!---
